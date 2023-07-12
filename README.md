@@ -1,18 +1,21 @@
 <h1>Welcome To My First Repository!!</h1> 
+<dl>
+  <dd>
+I want to share some of my favorite apps I use for my Macbook Air. I naturally gravitate towards productivity-esque apps since I'm all about being efficient. Of course, there are _still_ a few silly ones mixed in the mix, hehe. 
 
-> I want to share some of my favorite apps I use for my Macbook Air. I naturally gravitate towards productivity-esque apps since I'm all about being efficient. Of course, there are _still_ a few silly ones mixed in the mix, hehe.
->
-> Then we'll go which AI tools have grabbed my attention since I am officially obsessed with them lol. As a reward for dropping by my github I left you a small present below 😛
+Then we'll go which AI tools have grabbed my attention since I am officially obsessed with them lol. As a reward for dropping by my github I left you a small present below 😛
+</dl>
+
 
 
 <details>
 <summary> <b>Click for a surprise</b> </summary>
         
-
 ![Alt Text](Yotkie.jpg) </details>
+
+
+                                
 <h1>macOS Applications</h1>
-
-
 
 |NAME|DESCRIPTION|LINK|
 |-- |---|---|
@@ -51,9 +54,6 @@
 |snApp|Windows management made easy!|store|
 |SwitchCenter|Next-gen macOS control|https://switchcenter.app/|
 |ToDoBar|No BS todo app!|https://menubar-apps.github.io/#todo-bar|
-
-
-
 
 # AI Tools
 <dl>
